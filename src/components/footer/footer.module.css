@@ -1,0 +1,7 @@
+.footer_grid{
+    grid-area: footer;
+}
+.content{
+    font-size: 12pt;
+    text-align: center;
+}

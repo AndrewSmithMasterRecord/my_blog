@@ -1,0 +1,48 @@
+.aside_grid {
+    grid-area: aside;
+    background-color: white;
+}
+
+.search {
+    width: 150px;
+    position: relative;
+    display: flex;
+    padding: 3px;
+    border: solid 1px;
+}
+
+.searchButton {
+    width: 30px;
+    height: 30px;
+    border: none;
+    outline: none !important;
+    cursor: pointer;
+    background-color: transparent;
+    opacity: 0.5;
+}
+.searchInput {
+    margin-left: 5px;
+    width: 100px;
+    text-align: left;
+    border: none;
+    outline: none !important;
+    background-color: transparent;
+    opacity: 0.8;
+}
+.category_wrapper{
+    margin: 0 20px 0 10px;
+}
+
+.category_header {
+    text-align: left;
+    color: black;
+    border-bottom: solid 1px black;
+}
+.category_items {
+    text-align: left;
+}
+
+.border_back{
+    border-bottom: 1px rgba(111,108,110,0.2) solid;
+    text-align: left;
+}
