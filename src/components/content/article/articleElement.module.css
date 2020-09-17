@@ -34,24 +34,24 @@
     text-align: center;
     color: black;
     font-family: "Agency FB";
-    font-size: 16pt;
-    width: 90px;
-    height: 32px;
+    font-size: 1.3em;
+    width: 5em;
+    height: 1.5em;
     background-color: #58bcb3;
     cursor: pointer;
     padding-top: 5px;
 }
 
 .likes img {
-    width: 12px;
-    height: 9px;
+    width: 1em;
+    /*height: 9px;*/
     opacity: 0.5;
 }
 
 .comment_like {
     margin-top: 7px;
     display: flex;
-    font-size: 8pt;
+    font-size: 0.8em;
     width: 80%;
     position: relative;
     transform: translate(-50%);

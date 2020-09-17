@@ -35,7 +35,7 @@
 .category_wrapper{
     margin: 0 20px 0 10px;
     font-family: "Agency FB";
-    font-size: 16pt;
+    font-size: 1.2em;
 }
 
 .category_header {
@@ -51,7 +51,7 @@
 
 .border_back{
     font-family: "Agency FB";
-    font-size: 12pt;
+    font-size: 1em;
     padding-top: 16px;
     height: 20px;
     border-bottom: 1px rgba(111,108,110,0.2) solid;
