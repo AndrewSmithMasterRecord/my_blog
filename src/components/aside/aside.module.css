@@ -1,6 +1,9 @@
 .aside_grid {
     grid-area: aside;
+    align-self: start;
     background-color: white;
+    box-shadow: 0 2px 3px 0 rgba(0,0,0,.08);
+    padding-bottom: 40px;
 }
 
 .search {
@@ -31,18 +34,26 @@
 }
 .category_wrapper{
     margin: 0 20px 0 10px;
+    font-family: "Agency FB";
+    font-size: 16pt;
 }
 
 .category_header {
     text-align: left;
     color: black;
     border-bottom: solid 1px black;
+    padding-bottom: 5px;
 }
 .category_items {
     text-align: left;
+    padding-top: 5px;
 }
 
 .border_back{
+    font-family: "Agency FB";
+    font-size: 12pt;
+    padding-top: 16px;
+    height: 20px;
     border-bottom: 1px rgba(111,108,110,0.2) solid;
     text-align: left;
 }

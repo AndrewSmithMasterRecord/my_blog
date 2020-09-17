@@ -13,11 +13,17 @@ const Aside = () => {
         <div className={style.category_wrapper}>
             <h4 className={style.category_header}>Category</h4>
 
-            <p className={style.category_items}>1111111111111</p>
-            <p className={style.category_items}>2222222222</p>
-            <p className={style.category_items}>333333333333</p>
             <div className={style.border_back}>
-                <p className={style.category_items}>44444444444444</p>
+                <a>1111111111111</a>
+            </div>
+            <div className={style.border_back}>
+                <a>2222222222</a>
+            </div>
+            <div className={style.border_back}>
+                <a>333333333333</a>
+            </div>
+            <div className={style.border_back}>
+                <a>44444444444444</a>
             </div>
 
 

@@ -1,7 +1,7 @@
 body {
   margin: 0px 15px 0px 15px;
   font-family: "Open Sans",sans-serif;
-  font-size: 13px;
+  font-size: 14px;
   line-height: 21px;
   color: #8d8c8c;
   font-weight: 400;
@@ -15,6 +15,18 @@ ul li {
   list-style-type: none;
 }
 
+a {
+  text-decoration: none;
+}
+a:visited {
+  color: #8d8c8c;
+}
+a:hover {
+  color: #58bcb3;
+}
+a:active{
+  color: #58bcb3;
+}
 
 
 
