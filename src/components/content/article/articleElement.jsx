@@ -17,7 +17,7 @@ const ArticleElement = (props) => {
                 {props.post.title}
             </div>
 
-            <div>
+            <div className={style.content}>
                 {props.post.content}
             </div>
             <div className={style.read_button}>
