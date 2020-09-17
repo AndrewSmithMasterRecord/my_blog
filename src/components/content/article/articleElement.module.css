@@ -6,6 +6,7 @@
     background-color: white;
     padding: 5px 5px 10px 5px;
     box-shadow: 0 2px 3px 0 rgba(0, 0, 0, .08);
+    align-self: start;
 }
 
 .text_category {
@@ -41,15 +42,15 @@
 }
 
 .likes img {
-    width: 10px;
-    height: 8px;
+    width: 9px;
+    height: 7px;
     opacity: 0.5;
 }
 
 .comment_like {
     margin-top: 7px;
     display: flex;
-    font-size: 7pt;
+    font-size: 6pt;
     width: 80%;
     position: relative;
     transform: translate(-50%);
