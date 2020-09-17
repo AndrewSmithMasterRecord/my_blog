@@ -1,0 +1,61 @@
+.post_img img {
+    width: 100%;
+}
+
+.post_global {
+    background-color: white;
+    padding: 5px 5px 10px 5px;
+    box-shadow: 0 2px 3px 0 rgba(0, 0, 0, .08);
+}
+
+.text_category {
+    text-align: center;
+    color: #58bcb3;
+    font-family: "Agency FB";
+    font-size: 12pt;
+    font-weight: 500;
+    height: 20px;
+}
+
+.text_title {
+    text-align: center;
+    color: black;
+    font-family: "Agency FB";
+    font-size: 15pt;
+    font-weight: 500;
+    padding: 5px 0 7px 0;
+}
+
+.read_button {
+    position: relative;
+    transform: translate(-50%);
+    left: 50%;
+    text-align: center;
+    color: black;
+    font-family: "Agency FB";
+    font-size: 12pt;
+    width: 80px;
+    height: 25px;
+    background-color: #58bcb3;
+    cursor: pointer;
+}
+
+.likes img {
+    width: 10px;
+    height: 8px;
+    opacity: 0.5;
+}
+
+.comment_like {
+    margin-top: 7px;
+    display: flex;
+    font-size: 7pt;
+    width: 80%;
+    position: relative;
+    transform: translate(-50%);
+    left: 50%;
+}
+
+.com_like_position {
+    padding-right: 3px;
+}

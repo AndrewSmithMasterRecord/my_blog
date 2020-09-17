@@ -1,6 +1,6 @@
 .app_wrapper {
   display: grid;
-  grid-template-columns:  200px minmax(400px, 1fr) 200px;
+  grid-template-columns:  minmax(200px, 1fr) minmax(400px, 3fr) minmax(200px, 1fr);
   grid-template-rows: 1fr 200px;
     grid-column-gap: 15px;
   grid-template-areas: "navigation content aside"
